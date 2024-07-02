@@ -37,4 +37,4 @@ This project is licensed under the MIT License. See the LICENSE.md file for deta
 - **Author**: Added author information.
 - **License**: Linked to a hypothetical `LICENSE.md` file for licensing details.
 
-Adjust the URLs (`https://github.com/your-username/my-todo.git`), author name, and any additional details specific to your project. This README template is designed to effectively communicate the purpose, features, and setup instructions for your React-based todo list application.
+Adjust the URLs (`https://github.com/sakethdonepudi/MyTodo`), author name, and any additional details specific to your project. This README template is designed to effectively communicate the purpose, features, and setup instructions for your React-based todo list application.
