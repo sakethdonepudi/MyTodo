@@ -14,7 +14,7 @@ Welcome to **MyTodo App**! This groovy little tool will help you keep your tasks
 
 ## 🚀 Get Started
 
-1. Visit the Funky Todo App here: [Saketh's Funky Todo App](https://sakethtodo.netlify.app/)
+1. Visit the Funky Todo App here: [Todo App](https://sakethtodo.netlify.app/)
 2. Start adding your tasks and let the productivity begin!
 
 ## 📸 Screenshots
