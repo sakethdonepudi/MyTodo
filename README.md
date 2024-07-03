@@ -57,7 +57,7 @@ Want to make this app even funkier? Contributions are welcome! Feel free to fork
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## 💬 Contact
 
